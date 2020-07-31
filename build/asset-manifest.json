@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2dcf64a5.chunk.js",
+    "main.js.map": "/static/js/main.2dcf64a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca98175e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca98175e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2cbf0ff4.chunk.js": "/static/js/2.2cbf0ff4.chunk.js",
+    "static/js/2.2cbf0ff4.chunk.js.map": "/static/js/2.2cbf0ff4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.06b8762e62637884b910762f2bbd8951.js": "/precache-manifest.06b8762e62637884b910762f2bbd8951.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.2cbf0ff4.chunk.js.LICENSE.txt": "/static/js/2.2cbf0ff4.chunk.js.LICENSE.txt",
+    "static/media/clean.png": "/static/media/clean.4a95c0be.png",
+    "static/media/disinfect.png": "/static/media/disinfect.34f54d24.png",
+    "static/media/india.jpg": "/static/media/india.ee62dd24.jpg",
+    "static/media/logo.png": "/static/media/logo.d8a11109.png",
+    "static/media/safety.png": "/static/media/safety.82808d5d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca98175e.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2cbf0ff4.chunk.js",
+    "static/js/main.2dcf64a5.chunk.js"
+  ]
+}
